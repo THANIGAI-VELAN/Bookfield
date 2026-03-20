@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+.venv/
+env/
+venv/
+# IDE-specific files    
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+# Logs and databases
+*.log
+*.sqlite3
+# OS-specific files
+.DS_Store
+Thumbs.db
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
