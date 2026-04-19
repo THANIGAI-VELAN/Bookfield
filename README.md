@@ -1,1 +1,1 @@
-jst aN demo
+jst an demo project
